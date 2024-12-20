@@ -58,3 +58,10 @@ Effective inventory management is crucial for businesses in malls, where stock l
 - **Database:** MySQL (for storing inventory and delivery data)
 - **Authentication:** Java-based secure login system
 - **Reporting Tools:** Custom Java-based reporting for inventory and delivery management
+
+
+<img src="https://github.com/user-attachments/assets/9618f11e-05ff-4689-ac60-b0b66ed492b5" width="400" height="800"/>
+
+<img src="https://github.com/user-attachments/assets/34527c48-06c4-421f-81ac-b390beeac1ab" width="400" height="800"/>
+
+<img src="https://github.com/user-attachments/assets/40bbabfa-969f-439d-b811-e15a70e3b57d" width="400" height="800"/>
