@@ -62,8 +62,8 @@ Effective inventory management is crucial for businesses in malls, where stock l
 
 <img src="https://github.com/user-attachments/assets/b0e75351-ca8c-4f81-af68-104951ff73a5" width="500" height="700"/>
 
-<img src="https://github.com/user-attachments/assets/1607f34f-5686-4eda-af42-f56a26cfcca3" width="400" height="800"/>
+<img src="https://github.com/user-attachments/assets/1607f34f-5686-4eda-af42-f56a26cfcca3" width="500" height="700"/>
 
-<img src="https://github.com/user-attachments/assets/2205eb01-ef74-4dfb-b2c5-ad0a8cf0b0a2" width="400" height="800"/>
+<img src="https://github.com/user-attachments/assets/2205eb01-ef74-4dfb-b2c5-ad0a8cf0b0a2" width="500" height="700"/>
 
 
