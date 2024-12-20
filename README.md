@@ -60,8 +60,10 @@ Effective inventory management is crucial for businesses in malls, where stock l
 - **Reporting Tools:** Custom Java-based reporting for inventory and delivery management
 
 
-<img src="https://github.com/user-attachments/assets/9618f11e-05ff-4689-ac60-b0b66ed492b5" width="400" height="800"/>
+<img src="https://github.com/user-attachments/assets/b0e75351-ca8c-4f81-af68-104951ff73a5" width="400" height="800"/>
 
-<img src="https://github.com/user-attachments/assets/34527c48-06c4-421f-81ac-b390beeac1ab" width="400" height="800"/>
+<img src="https://github.com/user-attachments/assets/1607f34f-5686-4eda-af42-f56a26cfcca3" width="400" height="800"/>
 
-<img src="https://github.com/user-attachments/assets/40bbabfa-969f-439d-b811-e15a70e3b57d" width="400" height="800"/>
+<img src="https://github.com/user-attachments/assets/2205eb01-ef74-4dfb-b2c5-ad0a8cf0b0a2" width="400" height="800"/>
+
+
